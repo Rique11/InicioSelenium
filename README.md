@@ -9,5 +9,11 @@ Para iniciar o uso da aplicação, você precisará instalar duas bibliotecas pr
 
 Instalação de Pacotes:
 Depois de ativar o ambiente virtual, você pode instalar pacotes usando pip. Esses pacotes serão instalados apenas no ambiente virtual ativo e não afetarão o resto do sistema.
+
+
+
+
 pip install selenium 
+
+
 pip install webdriver-manager
