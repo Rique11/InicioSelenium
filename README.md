@@ -13,7 +13,7 @@ Depois de ativar o ambiente virtual, você pode instalar pacotes usando pip. Ess
 
 
 
-pip install selenium 
+###pip install selenium 
 
 
-pip install webdriver-manager
+###pip install webdriver-manager
