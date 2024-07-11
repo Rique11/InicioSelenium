@@ -2,7 +2,8 @@
 Este projeto tem como objetivo ensinar e demonstrar o uso do Selenium com Python para automação de navegadores web.
 
 # Pré-requisitos
-Antes de começar, você precisará ter o Python instalado em sua máquina. Você pode baixar a versão mais recente do Python aqui.
+Antes de começar, você precisará ter o Python instalado em sua máquina. Você pode baixar a versão mais recente do Python aqui: 
+https://www.python.org/downloads/
 
 # Instalação
 Para iniciar o uso da aplicação, você precisará instalar duas bibliotecas principais: selenium e webdriver-manager. Siga os passos abaixo para instalá-las:
