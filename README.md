@@ -1,2 +1,13 @@
 # InicioSelenium
-Apendendo a usar a biblioteca selenium (aplicação para WhatsAppWeb) 
+Este projeto tem como objetivo ensinar e demonstrar o uso do Selenium com Python para automação de navegadores web.
+
+Pré-requisitos
+Antes de começar, você precisará ter o Python instalado em sua máquina. Você pode baixar a versão mais recente do Python aqui.
+
+Instalação
+Para iniciar o uso da aplicação, você precisará instalar duas bibliotecas principais: selenium e webdriver-manager. Siga os passos abaixo para instalá-las:
+
+Instalação de Pacotes:
+Depois de ativar o ambiente virtual, você pode instalar pacotes usando pip. Esses pacotes serão instalados apenas no ambiente virtual ativo e não afetarão o resto do sistema.
+pip install selenium 
+pip install webdriver-manager
